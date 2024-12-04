@@ -1,5 +1,5 @@
 {
-  "name": "swoft/connection-pool",
+  "name": "swoft-fork/connection-pool",
   "type": "library",
   "version": "v2.0.11",
   "keywords": [
@@ -8,10 +8,10 @@
     "swoft"
   ],
   "description": "swoft connection pool component",
-  "homepage": "https://github.com/swoft-cloud/swoft-connection-pool",
+  "homepage": "https://github.com/sky-up/swoft-connection-pool",
   "license": "Apache-2.0",
   "require": {
-    "swoft/stdlib": "~2.0.0"
+    "swoft-fork/stdlib": "~2.0.0"
   },
   "autoload": {
     "psr-4": {
