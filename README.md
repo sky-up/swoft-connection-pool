@@ -16,7 +16,7 @@ Swoft Connection Pool Component
 - composer command
 
 ```bash
-composer require swoft/connection-pool
+composer require swoft-fork/connection-pool
 ```
 
 ## Resources
