@@ -225,7 +225,7 @@ abstract class AbstractPool implements PoolInterface
                 sprintf(
                     'Channel consumer is full, maxActive=%d, maxWait=%d, currentCount=%d',
                     $this->maxActive,
-                    $this->maxWaitTime,
+                    $this->maxWait,
                     $this->count
                 )
             );
